@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
 <h3>Name: V SIVARAJKUMAR </h3>
-<h3>Register NumBER: 212224250016</h3>
+<h3>Register Number: 212224250016</h3>
 
 
 <h3>AIM:</h3>
